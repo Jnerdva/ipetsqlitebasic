@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MyPets App
+=======
+Pets All App
+>>>>>>> f23e58e46d9ba00510e582db187bec42377ca2a9
 ===================================
 
 This app displays a list of pets and their related data that the user inputs.
